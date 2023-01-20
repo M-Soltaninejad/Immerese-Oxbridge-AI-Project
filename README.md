@@ -1,4 +1,4 @@
-# Immerese-Oxford-AI-Project
+# Immerese-Oxbridge-AI-Project
 This is the final project of the Artificial Intelligence (AI) short course at Immerse Education summer school at the **University of Oxford**.
 
 ## Aim
